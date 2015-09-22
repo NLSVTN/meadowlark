@@ -1,0 +1,23 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "My first node.js project",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLSVTN/meadowlark.git"
+  },
+  "author": "Nikita Vlasenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NLSVTN/meadowlark/issues"
+  },
+  "homepage": "https://github.com/NLSVTN/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express3-handlebars": "^0.5.2"
+  }
+}
